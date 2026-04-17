@@ -4,6 +4,7 @@
 # Environment variables (contains private keys!)
 .env
 .env.*
+!.env.example
 
 # Smart contract build artifacts
 smart-contract/cache/
