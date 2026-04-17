@@ -9,9 +9,6 @@
 smart-contract/cache/
 smart-contract/out/
 
-# Foundry dependencies (reinstall with forge install)
-smart-contract/lib/
-
 # Node
 node_modules/
 
